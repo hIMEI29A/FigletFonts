@@ -1,0 +1,1428 @@
+#################################################################
+# FIGlet font categorization file
+#
+# This file contains a list of all font categories with a list
+# of what fonts belong to each of them.
+# Categories can be ordered in a hierarchy. Format:
+#
+#   [root] - defines a category named 'root'.
+#   [root|category1] - defines a subcategory 'category1' to a top level category named 'root'
+#
+# Fonts in the font folder that are not listed in this file
+# will be displayed in the category "New Fonts". So you
+# can add new Fonts easily by copying them into the font folder.
+#
+# If you have a suggestion for improvements to this file
+# write to:
+#                markus@jave.de
+#################################################################
+
+
+#################################################################
+##
+##           Sorted by style
+[Style]{Fonts sorted by style}
+[Style|3D]{Fonts sorted by style: 3D}
+sub-zero
+chiseled
+3-d
+3d_diagonal
+alpha
+s-relief
+smisome1
+henry3d
+isometric1
+isometric2
+isometric3
+isometric4
+larry3d
+impossible
+swampland
+twisted
+
+[Style|Banner]{Fonts sorted by style: Banner}
+3x5
+alphabet
+banner
+banner3-D
+banner3
+banner4
+calgphy2
+caligraphy
+katakana
+moscow
+
+[Style|Block]{Fonts sorted by style: Block}
+block
+lean
+
+[Style|Contrast]{Fonts sorted by style: Contrast}
+banner3-D
+banner4
+bright
+contrast
+os2
+relief
+relief2
+ticks
+ticksslant
+
+[Style|Framed]{Fonts sorted by style: Framed}
+bear
+blocks
+bubble
+digital
+heart_left
+heart_right
+keyboard
+puzzle
+pyramid
+smkeyboard
+
+[Style|Line]{Fonts sorted by style: Line}
+acrobatic
+ascii_new_roman
+bell
+bigchief
+contessa
+cyberlarge
+cybermedium
+cybersmall
+cygnet
+fourtops
+gothic
+hollywood
+invita
+italic
+lcd
+madrid
+maxfour
+mini
+mshebrew210
+muzzle
+pepper
+rotated
+script
+shimrod
+short
+slscript
+smscript
+stampatello
+straight
+swan
+thin
+threepoint
+tinker-toy
+tombstone
+twopoint
+wavy
+weird
+
+[Style|Script]{Fonts sorted by style: Script}
+cola
+dietcola
+nscript
+nvscript
+script
+shimrod
+slscript
+smscript
+
+[Style|Outline]{Fonts sorted by style: Outline}
+5lineoblique
+avatar
+big
+blocks
+braced
+broadway_kb
+bulbhead
+chunky
+crawford
+crazy
+dancingfont
+doom
+double
+doubleshorts
+drpepper
+eftifont
+eftirobot
+epic
+fire_font-k
+fire_font-s
+flipped
+flowerpower
+funface
+funfaces
+fuzzy
+ghost
+glenyn
+goofy
+graceful
+graffiti
+henry3d
+horizontalleft
+horizontalright
+impossible
+isometric1
+isometric2
+isometric3
+isometric4
+ivrit
+jacky
+jerusalem
+knob
+larry3d
+lildevil
+lineblocks
+merlin1
+merlin2
+mirror
+modular
+ntgreek
+ogre
+puffy
+rammstein
+rectangles
+red_phoenix
+rounded
+serifcap
+shadow
+slant
+small
+smallcaps
+smshadow
+smslant
+soft
+speed
+spliff
+stacey
+standard
+starwars
+stop
+sub-zero
+swampland
+sweet
+train
+twisted
+varsity
+wetletter
+
+[Style|Pattern]{Fonts sorted by style: Pattern}
+arrows
+barbwire
+catwalk
+coinstak
+diamond
+nipples
+peaks
+stellar
+
+[Style|Shadow]{Fonts sorted by style: Shadow}
+lean
+smshadow
+shadow
+
+[Style|Solid]{Fonts sorted by style: Solid}
+4max
+alligator
+alligator2
+basic
+bolger
+broadway
+colossal
+fender
+filter
+georgia16
+jazmine
+kban
+lockergnome
+marquee
+nancyj
+nancyj-fancy
+nancyj-improved
+nancyj-underlined
+nvscript
+nscript
+o8
+pebbles
+poison
+roman
+rozzo
+sblood
+smpoison
+univers
+usaflag
+whimsy
+
+[Style|Turned]{Fonts sorted by style: Turned}
+flipped
+horizontalleft
+horizontalright
+knob
+rotated
+
+[Style|Dingbats]{Fonts sorted by style: Dingbats}
+eftichess
+eftiwall
+hieroglyphs
+
+[Style|Codes]{Fonts sorted by style: Codes}
+binary
+decimal
+hex
+ICL-1900
+morse
+morse2
+octal
+rot13
+dwhistled
+
+
+#################################################################
+##
+##           Sorted by number of lines
+
+# '1row' ist sonderfall: Besteht nur aus einer Zeile, hat aber Leerzeile darunten :-/
+[Linecount]{Fonts sorted by number of lines}
+[Linecount|1 Line]{Fonts sorted by number of lines: 1 Line}
+1row
+B1FF
+b1ff
+benjamin
+binary
+decimal
+hex
+mnemonic
+morse
+morse2
+octal
+rot13
+term
+wow
+
+[Linecount|2 Lines]{Fonts sorted by number of lines: 2 Lines}
+cybersmall
+twopoint
+
+[Linecount|3 Lines]{Fonts sorted by number of lines: 3 Lines}
+bigfig
+broadway_kb
+digital
+doubleshorts
+eftipiti
+mike
+pyramid
+rotated
+short
+smtengwar
+threepoint
+heart_left
+heart_right
+
+[Linecount|4 Lines]{Fonts sorted by number of lines: 4 Lines}
+4max
+amc3line
+amc3liv1
+ascii_new_roman
+bubble
+bulbhead
+contessa
+cyberlarge
+cybermedium
+eftiwall
+eftiwater
+flipped
+fourtops
+glenyn
+graceful
+hieroglyphs
+italic
+knob
+linux
+lockergnome
+madrid
+maxfour
+mini
+mshebrew210
+muzzle
+pepper
+serifcap
+smkeyboard
+smshadow
+straight
+wavy
+
+[Linecount|5 Lines]{Fonts sorted by number of lines: 5 Lines}
+braced
+chunky
+cygnet
+double
+drpepper
+eftichess
+eftifont
+eftitalic
+filter
+lineblocks
+puzzle
+shadow
+small
+smallcaps
+smscript
+smslant
+spliff
+thick
+tombstone
+tsalagi
+
+[Linecount|6 Lines]{Fonts sorted by number of lines: 6 Lines}
+3x5
+5lineoblique
+amcslder
+avatar
+bell
+bright
+cola
+contrast
+cosmic
+cosmike
+dietcola
+eftirobot
+goofy
+graffiti
+horizontalleft
+horizontalright
+invita
+ivrit
+lcd
+letters
+mirror
+moscow
+o8
+ogre
+peaksslant
+rectangles
+rowancap
+runic
+runyc
+santaclara
+sblood
+shimrod
+slant
+slide
+slscript
+speed
+stampate
+stampatello
+standard
+sub-zero
+thin
+ticks
+ticksslant
+train
+trek
+usaflag
+weird
+
+[Linecount|7 Lines]{Fonts sorted by number of lines: 7 Lines}
+alligator
+alligator2
+alligator3
+alphabet
+amcrazor
+amcthin
+banner3
+banner4
+bolger
+computer
+dancingfont
+fender
+funface
+funfaces
+fuzzy
+ghoulish
+jerusalem
+kban
+modular
+oldbanner
+os2
+rammstein
+red_phoenix
+relief
+relief2
+rounded
+rozzo
+script
+smisome1
+smpoison
+soft
+stacey
+starwars
+stop
+tinker-toy
+varsity
+wetletter
+
+[Linecount|8 Lines]{Fonts sorted by number of lines: 8 Lines}
+3-d
+amctubes
+amcun1
+arrows
+banner
+banner3-D
+barbwire
+basic
+big
+bigchief
+block
+catwalk
+coinstak
+crawford
+cricket
+diamond
+doom
+henry3d
+jacky
+katakana
+lean
+lildevil
+marquee
+merlin1
+nancyj
+nancyj-fancy
+nancyj-improved
+nancyj-underlined
+nipples
+peaks
+puffy
+stellar
+swampland
+tanja
+tiles
+tubular
+twisted
+
+[Linecount|9 Lines]{Fonts sorted by number of lines: 9 Lines}
+bear
+chiseled
+fire_font-s
+fire_font-k
+amcrazo2
+epic
+ghost
+gothic
+gradient
+greek
+keyboard
+larry3d
+merlin2
+ntgreek
+pawp
+s-relief
+starstrips
+swan
+
+[Linecount|10 Lines]{Fonts sorted by number of lines: 10 Lines}
+amcneko
+amcslash
+dotmatrix
+dwhistled
+flowerpower
+hollywood
+jazmine
+pebbles
+roman
+tengwar
+whimsy
+
+[Linecount|11 Lines]{Fonts sorted by number of lines: 11 Lines}
+blocks
+broadway
+colossal
+dosrebel
+isometric1
+isometric2
+isometric3
+isometric4
+reverse
+univers
+
+[Linecount|12 Lines]{Fonts sorted by number of lines: 12 Lines}
+acrobatic
+impossible
+poison
+
+[Linecount|13 Lines]{Fonts sorted by number of lines: 13 Lines}
+crazy
+ICL-1900
+sweet
+
+[Linecount|15 Lines]{Fonts sorted by number of lines: 15 Lines}
+fraktur
+amcaaa01
+
+[Linecount|16 Lines]{Fonts sorted by number of lines: 16 Lines}
+3d_diagonal
+georgi16
+nscript
+nvscript
+
+[Linecount|20 Lines]{Fonts sorted by number of lines: 20 Lines}
+calgphy2
+
+[Linecount|21 Lines]{Fonts sorted by number of lines: 21 Lines}
+caligraphy
+
+[Linecount|22 Lines]{Fonts sorted by number of lines: 22 Lines}
+alpha
+
+[Linecount|25 Lines]{Fonts sorted by number of lines: 25 Lines}
+doh
+##
+##
+#################################################################
+
+
+
+#################################################################
+##
+##           Sorted by date
+##  Date unknown: mnemonic, dwhistled
+##
+[Year]{Fonts sorted by year of creation}
+[Year|1993]{Fonts sorted by year of creation: 1993}
+bulbhead
+fourtops
+gothic
+jerusalem
+linux
+maxfour
+moscow
+ogre
+rowancap
+shimrod
+thick
+threepoint
+tombstone
+
+[Year|1994]{Fonts sorted by year of creation: 1994}
+3x5
+5lineoblique
+acrobatic
+alligator
+alligator2
+alligator3
+alphabet
+arrows
+avatar
+B1FF
+b1ff
+banner
+banner3
+banner3-D
+banner4
+barbwire
+basic
+bell
+binary
+block
+bright
+broadway
+caligraphy
+catwalk
+chunky
+coinstak
+colossal
+contessa
+contrast
+crawford
+cyberlarge
+cybermedium
+cybersmall
+decimal
+diamond
+doom
+dosrebel
+double
+drpepper
+epic
+fender
+fuzzy
+graffiti
+greek
+hex
+hollywood
+invita
+isometric1
+isometric2
+isometric3
+isometric4
+italic
+jazmine
+katakana
+kban
+keyboard
+larry3d
+lcd
+lean
+letters
+lockergnome
+madrid
+marquee
+mike
+mini
+mirror
+morse
+nancyj
+nancyj-fancy
+nancyj-improved
+nancyj-underlined
+nipples
+nscript
+ntgreek
+o8
+octal
+oldbanner
+pawp
+peaks
+peaksslant
+pebbles
+pepper
+poison
+puffy
+pyramid
+relief
+relief2
+reverse
+roman
+rot13
+rounded
+runic
+runyc
+s-relief
+sblood
+script
+serifcap
+shadow
+short
+slant
+slide
+slscript
+small
+smisome1
+smkeyboard
+smpoison
+smscript
+smshadow
+smslant
+speed
+stacey
+stampate
+standard
+starwars
+stellar
+stop
+straight
+thin
+ticks
+ticksslant
+tiles
+tinker-toy
+trek
+tubular
+twopoint
+univers
+usaflag
+weird
+whimsy
+
+[Year|1995]{Fonts sorted by year of creation: 1995}
+3-d
+4max
+bigchief
+bigfig
+bolger
+computer
+cosmic
+cosmike
+eftichess
+eftifont
+eftipiti
+eftirobot
+eftitalic
+eftiwall
+eftiwater
+fraktur
+goofy
+gradient
+morse2
+os2
+rectangles
+rozzo
+tanja
+
+[Year|1996]{Fonts sorted by year of creation: 1996}
+big
+bubble
+calgphy2
+cricket
+digital
+doh
+dotmatrix
+ivrit
+smtengwar
+stampatello
+tengwar
+term
+
+[Year|1997]{Fonts sorted by year of creation: 1997}
+santaclara
+tsalagi
+
+[Year|1999]{Fonts sorted by year of creation: 1999}
+1row
+alpha
+amc3line
+amc3liv1
+amcaaa01
+amcneko
+amcrazo2
+amcrazor
+amcslash
+amcslder
+amcthin
+amctubes
+amcun1
+jacky
+red_phoenix
+sub-zero
+
+[Year|2000]{Fonts sorted by year of creation: 2000}
+mshebrew210
+
+[Year|2001]{Fonts sorted by year of creation: 2001}
+benjamin
+henry3d
+
+[Year|2002]{Fonts sorted by year of creation: 2002}
+graceful
+
+[Year|2003]{Fonts sorted by year of creation: 2003}
+dancingfont
+fire_font-s
+fire_font-k
+ascii_new_roman
+georgi16
+hieroglyphs
+wetletter
+train
+funfaces
+funface
+
+[Year|2004]{Fonts sorted by year of creation: 2004}
+3d_diagonal
+braced
+chiseled
+crazy
+doubleshorts
+ghost
+ghoulish
+glenyn
+heart_left
+heart_right
+ICL-1900
+impossible
+lildevil
+smallcaps
+soft
+swampland
+varsity
+blocks
+flowerpower
+twisted
+
+[Year|2005]{Fonts sorted by year of creation: 2005}
+filter
+lineblocks
+merlin1
+merlin2
+rammstein
+starstrips
+swan
+wavy
+wow
+
+[Year|2006]{Fonts sorted by year of creation: 2006}
+broadway_kb
+cola
+cygnet
+dietcola
+flipped
+horizontalleft
+horizontalright
+knob
+modular
+puzzle
+rotated
+sweet
+
+[Year|2007]{Fonts sorted by year of creation: 2007}
+bear
+spliff
+
+[Year|2008]{Fonts sorted by year of creation: 2008}
+muzzle
+
+##
+##
+#################################################################
+
+
+
+#################################################################
+##
+##           These fonts have still to be sorted by style!
+[Style|Not sorted]{Fonts that have not yet been sorted by style}
+1row
+amc3line
+amc3liv1
+amcaaa01
+amcneko
+amcrazo2
+amcrazor
+amcslash
+amcslder
+amcthin
+amctubes
+amcun1
+bigfig
+computer
+cosmic
+cosmike
+cricket
+doh
+dosrebel
+dotmatrix
+eftipiti
+eftitalic
+eftiwater
+fraktur
+gradient
+letters
+linux
+mike
+mnemonic
+oldbanner
+pawp
+rowancap
+runic
+slide
+smtengwar
+starstrips
+tanja
+tengwar
+thick
+tiles
+trek
+tsalagi
+tubular
+wow
+
+
+
+
+
+
+
+
+#################################################################
+##
+##           Sorted by author
+##
+[Author]{Fonts sorted by author}
+
+[Author|Aaron Nolan]{Fonts sorted by author: Aaron Nolan}
+filter
+
+[Author|Bas Meijer]{Fonts sorted by author: Bas Meijer}
+italic
+straight
+weird
+
+[Author|Bas Meijer, Kent Nassen]{Fonts sorted by author: Bas Meijer, Kent Nassen}
+smkeyboard
+
+[Author|Bateau (lbm)]{Fonts sorted by author: Bateau (lbm)}
+rammstein
+lineblocks
+
+[Author|Belinda Asbell]{Fonts sorted by author: Belinda Asbell}
+smtengwar
+tengwar
+
+[Author|Benjamin Weiland, Christian Garbs, Markus Gebhard]{Fonts sorted by author: Benjamin Weiland, Christian Garbs, Markus Gebhard}
+benjamin
+
+[Author|BIZUN]{Fonts sorted by author: BIZUN}
+ICL-1900
+
+[Author|bpg]{Fonts sorted by author: bpg}
+swampland
+
+[Author|Bruce Jakeway]{Fonts sorted by author: Bruce Jakeway}
+greek
+ntgreek
+twopoint
+
+[Author|Bruce M. Binder]{Fonts sorted by author: Bruce M. Binder}
+serifcap
+
+[Author|Bryan Alexander]{Fonts sorted by author: Bryan Alexander}
+runic
+runyc
+
+[Author|Bryan Krog]{Fonts sorted by author: Bryan Krog}
+wavy
+
+[Author|CeeJay]{Fonts sorted by author: CeeJay}
+cygnet
+swan
+
+[Author|Chris Gill]{Fonts sorted by author: Chris Gill}
+chunky
+
+[Author|Christopher Joseph Pirillo]{Fonts sorted by author: Christopher Joseph Pirillo}
+contessa
+lockergnome
+tanja
+
+[Author|Claude Martins]{Fonts sorted by author: Claude Martins}
+avatar
+epic
+pyramid
+speed
+
+[Author|Craig O'Flaherty]{Fonts sorted by author: Craig O'Flaherty}
+basic
+
+[Author|Curtis Wanner]{Fonts sorted by author: Curtis Wanner}
+doh
+dotmatrix
+pawp
+
+[Author|Daniel Henninger]{Fonts sorted by author: Daniel Henninger}
+3-d
+
+[Author|Daniel Wiz. (Merlin Greywolf)]{Fonts sorted by author: Daniel Wiz. (Merlin Greywolf)}
+alligator2
+alligator3
+banner3-D
+banner3
+banner4
+relief2
+
+[Author|David Dahlberg]{Fonts sorted by author: David Dahlberg}
+kontoslant
+
+[Author|David S. Issel]{Fonts sorted by author: David S. Issel}
+sblood
+usaflag
+
+[Author|David Walton]{Fonts sorted by author: David Walton}
+mirror
+stop
+
+[Author|David Villegas]{Fonts sorted by author: David Villegas}
+rectangles
+
+[Author|davidstacey]{Fonts sorted by author: davidstacey}
+stacey
+
+[Author|Dennis Monk]{Fonts sorted by author: Dennis Monk}
+bright
+contrast
+
+[Author|Dr. Pepper]{Fonts sorted by author: Dr. Pepper}
+pepper
+
+[Author|Eero Tamminen]{Fonts sorted by author: Eero Tamminen}
+drpepper
+
+[Author|Felix Lee]{Fonts sorted by author: Felix Lee}
+pebbles
+
+[Author|Frans P. de Vries]{Fonts sorted by author: Frans P. de Vries}
+doom
+
+[Author|Gedaliah Friedenberg]{Fonts sorted by author: Gedaliah Friedenberg}
+jerusalem
+
+[Author|Glenn Chappell]{Fonts sorted by author: Glenn Chappell}
+big
+bigfig
+block
+bubble
+digital
+lean
+mini
+morse2
+script
+shadow
+slant
+small
+smscript
+smshadow
+smslant
+term
+
+[Author|Glenn Chappell & Ian Chai]{Fonts sorted by author: Glenn Chappell & Ian Chai}
+ogre
+standard
+
+[Author|Gordon Lee]{Fonts sorted by author: Gordon Lee}
+o8
+
+[Author|Hanspeter Niederstrasser]{Fonts sorted by author: Hanspeter Niederstrasser}
+defleppard
+
+[Author|Henry Segerman]{Fonts sorted by author: Henry Segerman}
+henry3d
+
+[Author|Howard Chu]{Fonts sorted by author: Howard Chu}
+gothic
+
+[Author|Jan Wolter]{Fonts sorted by author: Jan Wolter}
+santaclara
+slscript
+
+[Author|Jef Poskanzer]{Fonts sorted by author: Jef Poskanzer}
+bulbhead
+
+[Author|Jerrad Pierce]{Fonts sorted by author: Jerrad Pierce}
+tsalagi
+
+[Author|Joe Rumsey]{Fonts sorted by author: Joe Rumsey}
+B1FF
+
+[Author|John Cowan]{Fonts sorted by author: John Cowan}
+ivrit
+mnemonic
+
+[Author|Jonathon]{Fonts sorted by author: Jonathon}
+colossal
+
+[Author|Joshua Bell, Kent Nassen]{Fonts sorted by author: Joshua Bell, Kent Nassen}
+bell
+
+[Author|Juan Car]{Fonts sorted by author: Juan Car}
+fuzzy
+hollywood
+madrid
+puffy
+
+[Author|Karl von Laudermann]{Fonts sorted by author: Karl von Laudermann}
+lcd
+
+[Author|Karlton Wirsing]{Fonts sorted by author: Karlton Wirsing}
+decimal
+hex
+octal
+
+[Author|Katerina L.]{Fonts sorted by author: Katerina L.}
+muzzle
+
+[Author|Kent Nassen]{Fonts sorted by author: Kent Nassen}
+doubleshorts
+os2
+
+[Author|Larry Gelberg]{Fonts sorted by author: Larry Gelberg}
+larry3d
+
+[Author|Larry Smith]{Fonts sorted by author: Larry Smith}
+linux
+
+[Author|Leigh Purdie]{Fonts sorted by author: Leigh Purdie}
+graffiti
+
+[Author|Lennert Stock]{Fonts sorted by author: Lennert Stock}
+alpha
+cyberlarge
+cybermedium
+cybersmall
+isometric1
+isometric2
+isometric3
+isometric4
+
+[Author|Leslie Bates]{Fonts sorted by author: Leslie Bates}
+cricket
+
+[Author|LESTER]{Fonts sorted by author: LESTER}
+amc3line
+amc3liv1
+amcaaa01
+amcneko
+amcrazo2
+amcrazor
+amcslash
+amcslder
+amcthin
+amctubes
+amcun1
+
+[Author|LG Beard]{Fonts sorted by author: LG Beard}
+3d_diagonal
+braced
+chiseled
+ghoulish
+heart_left
+heart_right
+hieroglyphs
+horizontalleft
+horizontalright
+impossible
+merlin1
+merlin2
+smallcaps
+twisted
+
+[Author|Lukasz Tyrala]{Fonts sorted by author: Lukasz Tyrala}
+glenyn
+
+[Author|Marcin Glinski]{Fonts sorted by author: Marcin Glinski}
+ascii_new_roman
+stforek
+
+[Author|Marco Bodrato]{Fonts sorted by author: Marco Bodrato}
+stampate
+stampatello
+
+[Author|Markus Gebhard]{Fonts sorted by author: Markus Gebhard}
+3d_diagonal
+konto
+
+[Author|Meph]{Fonts sorted by author: Meph}
+jacky
+
+[Author|Matt E. Thurston]{Fonts sorted by author: Matt E. Thurston}
+reverse
+
+[Author|Michael Hamm]{Fonts sorted by author: Michael Hamm}
+mshebrew210
+
+[Author|Michael Sullivan]{Fonts sorted by author: Michael Sullivan}
+mike
+
+[Author|Michel Eftimakis]{Fonts sorted by author: Michel Eftimakis}
+eftichess
+eftifont
+eftipiti
+eftirobot
+eftitalic
+eftiwall
+eftiwater
+
+[Author|Mike Rosulek]{Fonts sorted by author: Mike Rosulek}
+bolger
+computer
+cosmic
+cosmike
+rozzo
+
+[Author|MikeChat]{Fonts sorted by author: MikeChat}
+cola
+dietcola
+
+[Author|MikeChat & myflix]{Fonts sorted by author: MikeChat & myflix}
+flipped
+puzzle
+rotated
+
+[Author|Mikhael Goikhman]{Fonts sorted by author: Mikhael Goikhman}
+graceful
+
+[Author|MJP]{Fonts sorted by author: MJP}
+fire_font-k
+fire_font-s
+funface
+funfaces
+wetletter
+
+[Author|myflix]{Fonts sorted by author: myflix}
+bear
+blocks
+broadway_kb
+cards
+crazy
+dancingfont
+ghost
+knob
+lildevil
+modular
+soft
+sweet
+train
+varsity
+
+[Author|Myflix, LG Beard]{Fonts sorted by author: Myflix, LG Beard}
+flowerpower
+
+[Author|M. Lindsey]{Fonts sorted by author: M. Lindsey}
+smisome1
+
+[Author|nabis]{Fonts sorted by author: nabis}
+3d_diagonal
+
+[Author|Nathan Bloomfield]{Fonts sorted by author: Nathan Bloomfield}
+spliff
+
+[Author|Nick Bryant]{Fonts sorted by author: Nick Bryant}
+s-relief
+
+[Author|Nick Miners]{Fonts sorted by author: Nick Miners}
+relief
+roman
+rounded
+
+[Author|Normand Veilleux]{Fonts sorted by author: Normand Veilleux}
+nscript
+nvscript
+univers
+
+[Author|Paul Burton]{Fonts sorted by author: Paul Burton}
+calgphy2
+
+[Author|Paul Fahn, Kent Nassen]{Fonts sorted by author: Paul Fahn, Kent Nassen}
+tombstone
+
+[Author|Peter L. Buschman]{Fonts sorted by author: Peter L. Buschman}
+trek
+
+[Author|Peter Weighill]{Fonts sorted by author: Peter Weighill}
+double
+
+[Author|Philip Menke]{Fonts sorted by author: Philip Menke}
+4max
+fraktur
+gradient
+
+[Author|Pipeline]{Fonts sorted by author: Pipeline}
+wow
+
+[Author|pk6811s]{Fonts sorted by author: pk6811s}
+5lineoblique
+bigchief
+invita
+
+[Author|Ralph Bluecoat]{Fonts sorted by author: Ralph Bluecoat}
+starstrips
+
+[Author|Red Phoenix]{Fonts sorted by author: Red Phoenix}
+red_phoenix
+
+[Author|Richard Kirk]{Fonts sorted by author: Richard Kirk}
+3x5
+
+[Author|Randy Jae Weinstein]{Fonts sorted by author: Randy Jae Weinstein}
+kban
+
+[Author|Randy Ransom]{Fonts sorted by author: Randy Ransom}
+acrobatic
+fourtops
+maxfour
+thick
+threepoint
+
+[Author|Richard Sabey]{Fonts sorted by author: Richard Sabey}
+DANC4
+Georgia11
+georgi16
+
+[Author|robert@cs.caltech.edu]{Fonts sorted by author: robert@cs.caltech.edu}
+thin
+
+[Author|Ron Fritz]{Fonts sorted by author: Ron Fritz}
+arrows
+barbwire
+catwalk
+coinstak
+diamond
+marquee
+nipples
+peaks
+stellar
+tiles
+tubular
+
+[Author|Rowan Crawford]{Fonts sorted by author: Rowan Crawford}
+crawford
+rowancap
+
+[Author|Ryan Youck]{Fonts sorted by author: Ryan Youck}
+banner
+oldbanner
+starwars
+
+[Author|Scooter]{Fonts sorted by author: Scooter}
+fender
+
+[Author|Shimrod (Herman Hiddema)]{Fonts sorted by author: Shimrod (Herman Hiddema)}
+shimrod
+
+[Author|Simon Bradley]{Fonts sorted by author: Simon Bradley}
+alligator
+
+[Author|Sriram J. Gollapalli]{Fonts sorted by author: Sriram J. Gollapalli}
+letters
+
+[Author|Steven <GoofY> de Brouwer]{Fonts sorted by author: Steven <GoofY> de Brouwer}
+goofy
+
+[Author|Sub-Zero]{Fonts sorted by author: Sub-Zero}
+short
+sub-zero
+
+[Author|The Mouse]{Fonts sorted by author: The Mouse}
+whimsy
+
+[Author|Tracy Schuhwerk]{Fonts sorted by author: Tracy Schuhwerk}
+moscow
+
+[Author|Valerie Mates]{Fonts sorted by author: Valerie Mates}
+dosrebel
+
+[Author|vampyr]{Fonts sorted by author: vampyr}
+nancyj-fancy
+nancyj-improved
+nancyj-underlined
+nancyj
+
+[Author|Victor Parada]{Fonts sorted by author: Victor Parada}
+binary
+morse
+peaksslant
+rot13
+slide
+ticks
+ticksslant
+
+[Author|Vinney Thai]{Fonts sorted by author: Vinney Thai}
+caligraphy
+katakana
+keyboard
+smpoison
+
+[Author|Vinney Thai & David Issel]{Fonts sorted by author: Vinney Thai & David Issel}
+poison
+
+[Author|Wendell Hicken]{Fonts sorted by author: Wendell Hicken}
+alphabet
+tinker-toy
+
+[Author|Unknown]{Fonts sorted by author: Unknown}
+1row
+broadway
+dwhistled
+jazmine
+test1
+
+[Author|Unsorted]{Fonts sorted by author: Not sorted}
