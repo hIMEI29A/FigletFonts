@@ -1,6 +1,7 @@
-# Figlet Fonts Showcase Library
+# Figlet Fonts
+___
 
-as seen on http://inteist.com/figlet
+**Collection of figlet fonts**
 
 - To generate **HTML** listing run `make`
 - To generate **PLAIN** listing run `make plain`
@@ -10,4 +11,4 @@ The makefile uses the
 - `generate-html-listing`
 - `generate-plain`
 
-files respectively
+
