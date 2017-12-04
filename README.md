@@ -23,20 +23,7 @@ ___
 	░░░░░        ░░░░░░  ░░░░ ░░░░░    ░░░░░  ░░░░░░  
 ___
 
-**Collection of figlet fonts**
-
-Here is fat collection of well known FigLet fonts gathered from different source.
-
-## Options
-___
-
-- To generate **HTML** listing run `make`
-- To generate **PLAIN** listing run `make plain`
-
-The makefile uses the
-
-- `generate-html-listing`
-- `generate-plain`
+Collection of well known FigLet fonts gathered from different source.
 
 ## Install
 ___
@@ -44,20 +31,26 @@ ___
 Install Figlet firstly. For Debian/Ubuntu:
 
 ```sh
-sudo apt-get install figlet toilet
+sudo apt-get install figlet
 ```
 
-Clone repo and copy all fonts to Figlet default install folder:
+Clone repo and run `make` to install all fonts to Figlet default install folder (`/usr/share/figlet`):
 
 ```sh
 git clone https://github.com/hIMEI29A/FigletFonts.git
 
-cd FigletFonts/src
+cd FigletFonts
 
-sudo mv *.* /usr/share/figlet
+make
 ```
 
-###Fonts in the Gallery
+### Options
+___
+
+* To generate **HTML** listing run `make htmlgen`
+* To generate **PLAIN** listing run `make plaingen`
+
+## Fonts in the Gallery
 ___
 
 **1943____**
