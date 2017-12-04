@@ -1,6 +1,6 @@
 #bin/sh
 
-for file in *.flf
+for file in src/*.flf
 do
     echo "\n\n============================"     "$file"   "============================\n\n"
     figlet -f "$file" -w 2400 Sample
