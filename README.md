@@ -15,7 +15,7 @@ ___
 
 **Collection of figlet fonts**
 
-Here is fat collection of well known FigLet fonts from different source.
+Here is fat collection of well known FigLet fonts gathered from different source.
 
 ## Options
 ___
@@ -27,6 +27,19 @@ The makefile uses the
 
 - `generate-html-listing`
 - `generate-plain`
+
+## Install
+___
+
+If your Figlet is installed to default location, do:
+
+```sh
+git clone https://github.com/hIMEI29A/FigletFonts.git
+
+cd FigletFonts/src
+
+sudo mv *.* /usr/share/figlet
+```
 
 ## Fonts listing
 ___
@@ -1716,4 +1729,3 @@ zig_zag_.flf
 zone7___.flf
 
 z-pilot_.flf
-
