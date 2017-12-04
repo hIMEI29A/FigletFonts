@@ -14,10 +14,10 @@ FIGLET = /usr/share/figlet
 all:
 	sudo install $(SRC)/*.* $(FIGLET)
 
-# For html listing of installed fonts generation
+# Generate html listing of installed fonts to .html file
 htmlgen:
-	@chmod +x generate-html-listing.sh && ./generate-html-listing.sh
+	@chmod +x generate-html-listing.sh && ./generate-html-listing.sh >> figletfonts.html
 
-# For plain listing of installed fonts generation in terminal
+# Generate plain listing of installed fonts in terminal
 plaingen:
 	@chmod +x generate-plain.sh && ./generate-plain.sh

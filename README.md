@@ -23,18 +23,18 @@ ___
 	░░░░░        ░░░░░░  ░░░░ ░░░░░    ░░░░░  ░░░░░░  
 ___
 
-Collection of well known FigLet fonts gathered from different source.
+Collection of well known **FigLet** fonts gathered from different source.
 
 ## Install
 ___
 
-Install Figlet firstly. For Debian/Ubuntu:
+Install **Figlet** firstly. For Debian/Ubuntu:
 
 ```sh
 sudo apt-get install figlet
 ```
 
-Clone repo and run `make` to install all fonts to Figlet default install folder (`/usr/share/figlet`):
+Clone repo and run `make` to install all fonts to **Figlet default install folder** (`/usr/share/figlet`):
 
 ```sh
 git clone https://github.com/hIMEI29A/FigletFonts.git
